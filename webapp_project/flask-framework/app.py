@@ -94,7 +94,8 @@ def homepage():
     return render_template('graph.html', script=script, div=div, curr_ticker="GOOG")
 
 if __name__ == '__main__':
-    app.run()
+    app.run(host='0.0.0.0')
+    # app.run()
 
 
 
