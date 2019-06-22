@@ -1,0 +1,3 @@
+[submodule "webapp_project/flask-framework"]
+	path = webapp_project/flask-framework
+	url = https://github.com/thedataincubator/flask-framework
