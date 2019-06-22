@@ -1,6 +1,5 @@
 #Load the packages
 from flask import Flask, render_template, request, redirect
-from app import app
 
 import numpy as np
 import pandas as pd
