@@ -95,8 +95,6 @@ def homepage():
 if __name__ == '__main__':
     app.run(port=33507)
 
-	git submodule add https://github.com/thedataincubator/flask-framework webapp_project/flask-framework
-
 
 
 
